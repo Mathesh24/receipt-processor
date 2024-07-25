@@ -1,0 +1,6 @@
+com\example\fetch_backend\receipt_processor\model\Receipt.class
+com\example\fetch_backend\receipt_processor\controller\ReceiptController.class
+com\example\fetch_backend\receipt_processor\services\ItemService.class
+com\example\fetch_backend\receipt_processor\ReceiptProcessorApplication.class
+com\example\fetch_backend\receipt_processor\model\Item.class
+com\example\fetch_backend\receipt_processor\services\ReceiptService.class
