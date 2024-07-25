@@ -78,13 +78,13 @@ Response:
 Response:**
 
  JSON
-[
   {
     "id": "receipt_id_1",
-    "points": 123
-  },
-
-]
+    "retailer": "M&M Corner Market",
+   "purchaseDate": "2022-03-20",
+   "purchaseTime": "14:33"
+   ...
+  }
 
 **Testing**
 You can use tools like Postman to test the API endpoints.
